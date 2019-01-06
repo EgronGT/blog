@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PayloadInfo version="6.0.98.0" md5="67d8055386a78663dc7bf87388c946cd"><BuildInfo>
+    <Property name="Created">2013-10-29 15:47:18.130000</Property>
+    <Property name="TargetName">AdobePhotoshop13-ru_RU_x64-291013154718</Property>
+    <Property name="ProcessorFamily">x64</Property>
+  </BuildInfo><InstallerProperties>
+    <Property name="payloadType">SQLite</Property>
+    <Property name="AdobeCode">{6E177147-9A55-4F3B-8740-29B976A6448C}</Property>
+    <Property name="ProductName">Adobe Photoshop CS6 Russian Language Pack_x64</Property>
+    <Property name="ProductVersion">13.0.1.3</Property>
+  </InstallerProperties><Languages languageIndependent="1"/><Satisfies>
+    <ProductInfo>
+      <Family>Photoshop</Family>
+      <ProductName>Adobe Photoshop CS6 Russian Language Pack_x64_13.0.1.3_AdobePhotoshop13-ru_RU_x64</ProductName>
+      <ProductVersion>13.0.1.3</ProductVersion>
+    </ProductInfo>
+  </Satisfies><AddRemoveInfo>
+    <DisplayVersion>
+      <Value lang="ar_AE">13.0.1.3</Value>
+      <Value lang="be_BY">13.0.1.3</Value>
+      <Value lang="bg_BG">13.0.1.3</Value>
+      <Value lang="ca_ES">13.0.1.3</Value>
+      <Value lang="cs_CZ">13.0.1.3</Value>
+      <Value lang="da_DK">13.0.1.3</Value>
+      <Value lang="de_DE">13.0.1.3</Value>
+      <Value lang="el_GR">13.0.1.3</Value>
+      <Value lang="en_GB">13.0.1.3</Value>
+      <Value lang="en_MX">13.0.1.3</Value>
+      <Value lang="en_US">13.0.1.3</Value>
+      <Value lang="en_XC">13.0.1.3</Value>
+      <Value lang="en_XM">13.0.1.3</Value>
+      <Value lang="es_ES">13.0.1.3</Value>
+      <Value lang="es_MX">13.0.1.3</Value>
+      <Value lang="es_QM">13.0.1.3</Value>
+      <Value lang="et_EE">13.0.1.3</Value>
+      <Value lang="fi_FI">13.0.1.3</Value>
+      <Value lang="fr_CA">13.0.1.3</Value>
+      <Value lang="fr_FR">13.0.1.3</Value>
+      <Value lang="fr_MX">13.0.1.3</Value>
+      <Value lang="fr_XM">13.0.1.3</Value>
+      <Value lang="he_IL">13.0.1.3</Value>
+      <Value lang="hi_IN">13.0.1.3</Value>
+      <Value lang="hr_HR">13.0.1.3</Value>
+      <Value lang="hu_HU">13.0.1.3</Value>
+      <Value lang="is_IS">13.0.1.3</Value>
+      <Value lang="it_IT">13.0.1.3</Value>
+      <Value lang="ja_JP">13.0.1.3</Value>
+      <Value lang="ko_KR">13.0.1.3</Value>
+      <Value lang="lt_LT">13.0.1.3</Value>
+      <Value lang="lv_LV">13.0.1.3</Value>
+      <Value lang="mk_MK">13.0.1.3</Value>
+      <Value lang="nb_NO">13.0.1.3</Value>
+      <Value lang="nl_NL">13.0.1.3</Value>
+      <Value lang="nn_NO">13.0.1.3</Value>
+      <Value lang="no_NO">13.0.1.3</Value>
+      <Value lang="pl_PL">13.0.1.3</Value>
+      <Value lang="pt_BR">13.0.1.3</Value>
+      <Value lang="ro_RO">13.0.1.3</Value>
+      <Value lang="ru_RU">13.0.1.3</Value>
+      <Value lang="sh_YU">13.0.1.3</Value>
+      <Value lang="sk_SK">13.0.1.3</Value>
+      <Value lang="sl_SI">13.0.1.3</Value>
+      <Value lang="sq_AL">13.0.1.3</Value>
+      <Value lang="sv_SE">13.0.1.3</Value>
+      <Value lang="th_TH">13.0.1.3</Value>
+      <Value lang="tr_TR">13.0.1.3</Value>
+      <Value lang="uk_UA">13.0.1.3</Value>
+      <Value lang="vi_VN">13.0.1.3</Value>
+      <Value lang="zh_CN">13.0.1.3</Value>
+      <Value lang="zh_TW">13.0.1.3</Value>
+      <Value lang="en_AE">13.0.1.3</Value>
+      <Value lang="en_IL">13.0.1.3</Value>
+      <Value lang="fr_MA">13.0.1.3</Value>
+    </DisplayVersion>
+    <DisplayName>
+      <Value lang="ar_AE">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="be_BY">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="bg_BG">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="ca_ES">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="cs_CZ">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="da_DK">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="de_DE">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="el_GR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_GB">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_MX">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_US">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_XC">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_XM">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="es_ES">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="es_MX">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="es_QM">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="et_EE">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fi_FI">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fr_CA">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fr_FR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fr_MX">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fr_XM">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="he_IL">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="hi_IN">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="hr_HR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="hu_HU">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="is_IS">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="it_IT">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="ja_JP">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="ko_KR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="lt_LT">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="lv_LV">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="mk_MK">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="nb_NO">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="nl_NL">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="nn_NO">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="no_NO">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="pl_PL">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="pt_BR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="ro_RO">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="ru_RU">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="sh_YU">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="sk_SK">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="sl_SI">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="sq_AL">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="sv_SE">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="th_TH">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="tr_TR">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="uk_UA">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="vi_VN">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="zh_CN">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="zh_TW">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_AE">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="en_IL">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+      <Value lang="fr_MA">Adobe Photoshop CS6 Russian Language Pack_x64</Value>
+    </DisplayName>
+  </AddRemoveInfo></PayloadInfo>

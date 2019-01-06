@@ -1,0 +1,147 @@
+﻿<html>
+<tilte>Praktike me CSS</title>
+<head>
+<style type="text/css">
+#container{
+position: relative;
+}
+	position:absolute;
+	width:900px;
+	height:100px;
+	background-color: #555555;
+	top: 884px;
+	left:0px;
+	
+	text-align: center;
+	
+#header{
+width: 1000px;
+height: 900px;
+background-color: gold;
+position: absolute;
+top:0px;
+left:0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+
+#logon{
+width:900px;
+height:100px;
+background-color:brown;
+top:0px;
+left:100px;
+position:absolute;
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#primnav{
+text-align:center;
+width: 900px;
+height: 100px;
+background-color: brown;
+position: absolute;
+top:100px;
+left:0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#webaner{
+position:absolute;
+width:100px;
+height:800px;
+background-color: #555555;
+top: 0px;
+left:100px;
+
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#webpage{
+position:absolute;
+width:900px;
+height:100px;
+background-color: #555555;
+top: 884px;
+left:0px;
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#localnav{
+position:absolute;
+width:900px;
+height:100px;
+background-color: #555555;
+top: 884px;
+left:0px;
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#content{
+position:absolute;
+width:900px;
+height:100px;
+background-color: #555555;
+top: 884px;
+left:0px;
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#secnav{
+position:absolute;
+width:900px;
+height:100px;
+background-color: #555555;
+top: 884px;
+left:0px;	
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+#url{
+position:absolute;
+width:900px;
+height:100px;
+background-color: #555555;
+top: 884px;
+left:0px;
+text-align:center;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+}
+
+</style>
+</head>
+<body>
+<div id ="container">
+<div id="logon" class="nav">Logon</div>
+<div id ="primnav" class="nav">Primary Navigation</div>
+<div id ="webaner" class="nav">Website Bsnner</div>
+<div id ="webpage" class="nav">Webpage Title</div>
+<div id ="localnav" class="nav">Local Navigation</div>
+<div id="content" class="nav">Content
+Modification Date</div>
+<div id="secnav" class="nav">Secondary Navigation</div>
+<div id="url" class="nav">Copyright & URL</div>
+</body>
+</html>

@@ -1,0 +1,260 @@
+﻿<html>
+<title>TEST</title>
+<style type="text/css">
+
+body {
+position: relative;
+margin-top: 0;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto;
+width: 900px;
+height: 100%;
+background-color: #ababab;
+
+}
+
+
+
+#header {
+	position:absolute;
+	top:0px;
+	left:0;
+	width: 900px;
+	height:100px;
+        text-align: center;
+	background-color: #E6C200;
+	}
+
+
+.menuheader  {
+	position: absolute;
+	top: 60px;
+	left: 220px;
+}
+
+.menuheader ul {
+list-style:none; 
+margin: 0; 
+padding:0;
+z-index:1010;
+}
+
+.menuheader li {font-family:verdana;
+float:left; width: 100px; border-right:1px solid #fff; background-color:orange; text-align:center;
+position:relative; height:30px; line-height:30px; }
+
+
+
+.menuheader li ul li {
+float:none; width: 100px;border-top:1px solid #fff; }
+.menuheader a {text-decoration:none; color:maroon;}
+.menuheader a:hover {color:white;}
+.menuheader li ul {position:absolute; top:30px; left:0; visibility:hidden;} 
+
+.menuheader li:hover {background-color:#cc0000;}
+.menuheader li:hover ul{visibility:visible;}
+
+.leftnav {
+	position:absolute;
+	top:100px;
+	left:0;
+	width:200px;
+	height:784px;
+	background-color:#cccccc;
+	}
+
+
+
+#menu {
+position:absolute;
+top:20px;
+left:0px;
+}
+
+#menu ul {list-style:none; margin:0; padding:0;}
+
+#menu li {float:down; width: 200px; height:40px; border-bottom:1px solid #fff; text-align:left; padding-left:20px; line-height:40px; font-family:verdana;}
+
+#menu a {text-decoration:none; color:maroon;} 
+
+
+#menu a:hover {color:white;}
+
+#menu li:hover {background-color:orange; border-bottom:1px solid maroon;}
+
+#rightnav {
+	position:absolute;
+	top:100px;
+	left:700px;
+	width:200px;
+	height:784px;
+	background-color: #cccccc;
+}
+
+
+marquee {
+  margin-top: 10px;
+  width: 180px; height: 160px; 
+
+}
+marquee a {
+    font-family:verdana; color:black; 
+    font-size: 14px;
+text-decoration: none;
+}
+marquee a:hover {
+    font-family:verdana; color:#cc0000; 
+    font-size: 14px;
+text-decoration: none;
+}
+
+
+#dokument {
+	position:absolute;
+	top:100px;
+	left:200px;
+	width:500px;
+	height:784px;
+	background-color: #ffffff;
+}
+
+.nje {
+	position:absolute;
+	left:20px;
+	top:20px;
+	width:460px;
+	height:300px;
+	background-color: yellow;
+}
+.dy {
+	position:absolute;
+	left:20px;
+	top:340px;
+	width:220px;
+	height:200px;
+	padding: 0px;
+        text-align: center;
+	border: 1px solid gray;
+border-style: groove;
+	background-color: #FFCC00;
+}
+.dy:hover {
+background-color: orange;
+}
+.tre {
+	position:absolute;
+	left:260px;
+	top:340px;
+	width:220px;
+	height:200px;
+	padding: 0px;
+text-align: center;
+	border: 1px solid gray;
+border-style: ridge;
+	background-color: #FFCC00;
+}
+.kater {
+	position:absolute;
+	left:20px;
+	top:564px;
+	width:220px;
+	height:200px;
+	padding: 0px;
+text-align: center;
+	border: 1px solid gray;
+border-style:double;
+	background-color: #FFCC00;
+}
+.pese {
+	position:absolute;
+	left:260px;
+	top:564px;
+	width:220px;
+	height:200px;
+	padding: 0px;
+text-align: center;
+	border: 1px solid gray;
+border-style:outset;
+	background-color: #FFCC00;
+}
+#footer {
+	position:absolute;
+	width:900px;
+	height:100px;
+	background-color: #555555;
+	top: 884px;
+	left:0px;
+	
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #FFFFFF;
+	
+</style>
+</head>
+<body>
+<div class="main section" id="main"></div>
+
+<div id="header">
+<p>Ky eshte kreu</p>
+<div class="menuheader">
+<ul>
+<li><a href="#">MENU 1</a>
+<ul>
+<li><a href="#">LINK 1</a></li>
+<li><a href="#">LINK 2</a></li>
+<li><a href="#">LINK 3</a></li>
+<li><a href="#">LINK 4</a></li>
+</ul>
+</li>
+<li><a href="#">MENU 2</a></li>
+<li><a href="#">MENU 3</a></li>
+<li style="border-right:none"><a href="#">MENU 4</a></li>
+</ul>
+</div>
+</div><!--fundi i header!-->
+<div class="leftnav">
+<div id="menu">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">Home</a></li>
+</ul>
+</div>
+</div>
+<div id="rightnav">
+<marquee align="middle" behavior="scroll" direction="up" onMouseOut="this.start  ()" onMouseOver="this.stop()" scrollamount="3">
+<p>
+<a href="http://drfpp1.wordpress.com/kurse-  profesionale/kurs-kompjuteri/">COMPUTER</a>
+</p>
+<p><a href="http://drfpp1.wordpress.com/kurse/web-  design/">WEB DESIGN</a>
+</p>
+<p>
+<a href="http://www.drfpp1.blogspot.com">GRAPHIC 
+
+DESIGN</a>
+</p>
+</marquee>
+</div>
+<div id="dokument">
+<div class="nje">
+<iframe  src="http://slideful.com/v20150113_1542623414217127_ijf.htm" 
+
+frameborder="0" style="border:0px;padding:0px;margin:0px;width:460px;height:300px;" allowtransparency="true">
+<a href="http://slideful.com/v20150113_1542623414217127_pf.htm">View the slide show</a> </iframe></div>
+<a href="#"><div class="dy"><h2>DOKUMENT 2</h2>
+<p>Xhamia Blu eshte nje nga xhamite me te bukura ne bote.
+Ndodhet ne Stamboll dhe eshte ndertuar nga kryearkitekti elbasanas Sedefqar Mehmet Aga</p>
+</div></a>
+<div class="tre"><h2>DOKUMENT 3</h2>
+<p>Xhamia Blu eshte nje nga xhamite me te bukura ne bote.
+Ndodhet ne Stamboll dhe eshte ndertuar nga kryearkitekti elbasanas Sedefqar Mehmet Aga</p></div>
+<div class="kater"><h2>DOKUMENT 4</h2><p>Xhamia Blu eshte nje nga xhamite me te bukura ne bote.Ndodhet ne Stamboll dhe eshte ndertuar nga kryearkitekti elbasanas Sedefqar Mehmet Aga</p></div>
+<div class="pese"><h2>DOKUMENT 5</h2><p>Xhamia Blu eshte nje nga xhamite me te bukura ne bote.Ndodhet ne Stamboll dhe eshte ndertuar nga kryearkitekti elbasanas Sedefqar Mehmet Aga</p></div>
+</div><!--ketu mbaron dokumenti kryesor!-->
+<div id="footer">
+<p>Ky eshte fundi</p></div>
+</body></html>

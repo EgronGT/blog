@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+	<FileName>
+		UpdateManifest.xml
+	</FileName>
+	<FileSize>
+		8264
+	</FileSize>
+	<CheckSum>
+		RHN/u6/7ZZ21N5a5xW5/6jEBOWocG3OH8YK1X7+MyoVu7x9phzsfKoJ25ZIdpOeannsRMLX2JPmjBnwAQeCmTxszA7sHlGzPyj//mvtEpnJPpehYEHhCac/HLyLTgSioQLy8cBQRalICVL3R91eSssJ7yKrC1SlAEb2Fr+oFy5izW4WtdkScpFTqrL9VPnTj+f3ydAfaXPkTzekfOG14aYkz4QK/ZoZRSZGCcz4OElvuWy8lBeJOA49onI4xoq3WgLMU/o3L7oezJPMVfYuPunnB58uc6J9GDOZUrHsoJtWdpx7gVfn6XZNCvrE/I1shM8d6fEZW0Dja9MCVP8pAVLSn75TZz/2kvAyBBQR38aSkuvJ+0f/9VTzMiR1D90oxqxPYo7S+GCGy45oa9ChnT7oe0v6eszWbokQgOIKTKnQOVZP1gH/8/tlDdrmVKHSfKcoK7qq/zLykR1WAdy+D8A3WEKH8n/pIR+UCfGR99OpNallflmd8rN8MQKQpjsSU
+	</CheckSum>
+	<Sig>
+		hyFQLx+onKp9+CaEmQZ+hZDvaTAN+MgVSFZ6Xb7DicATpDIugyu3ei6vCGWigHOQKIxcue27+1NR0ZK+M3g1KGLBZnrMslusFmaQTzcYJAmZbiYk2bm7inYVlHr83v/1zb03/sZLcIQIzwK+wiWNMdzO7LsUbKWnMsT7Ug7c5Zwppz/Ua++Cfq6YxTouApJ8adT/CKNvFJDwJEXaXRHofRWg9C9PamEJsGE7acBhZZghc1u2maqHYMSmFPsSvxLzo/5XOOqj4X0NP4Qo/oQV0b2/biC8ERzEaXaWCz1+wK+nyJlLOZXAl9UDsWYtyCQ7XC+5M3wX8cG66+RSGxxWSLT8JqU0BV+GrsQ9eHBn7GjkAn1QFmxAQiyxgUBJWmjDRwYXvo05z3FhE6hMOCAN/mG85i3lam23Do1u3is2TLkiCdbPk7URuSkjLs61U/O+5BrV/WPbVJZjYFN4TfzyLbwDpzxgdeggtt0DXfIUsRMBAQxyxsuA/mWSzKJNCnG/
+	</Sig>
+</Signature>

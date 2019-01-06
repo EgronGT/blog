@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Signature Version="1.0">
+  <FileName>Assets1_1.zip</FileName>
+  <FileSize>1438</FileSize>
+  <CheckSum>kPL3hTKcD5U9UQ0Cav37ei0aYw6XOB1gp4el+TWFaaIjqGs45OA88LWNlWZP16hKVldWfTZeNUvF3vJt7Kx3kb6eyWv0Sa6lLPezSkk8+/YzIHnL/+S9jqWOOBYcsSSEL+6/vmLfP0B80m4MKgfU2lxVt6HX6r+hVUYpmBVGrwuORyxX26gYzBWjmtdsNmBp5sSDfUIuZFNneLqXQphqOqsSvzzhwJySWPtZUwoQqmmT22zNhNOHClp/YzNix9i2vim/C+0vfCW9g85zW2iw4N8ZK6fsSfh+Scttvcsf8S+uCfquuKv08O+aSE4TLypG1wOVmMygLxdKLMc9crr5lVix6QNGEzrSRZpW3+ofF78dm7ueNt2HAAsmv4n6AXUuvjutJH3JYPEgQEkUut6zHJ40zotbfF/W92XXIjdieXDWl6oCSeFwaXOXSZm9/QT71wc1naB1So/C1/GpHopCba1e2kbjnRvzPWLW+qAfN76CBfiREasIHrS/zYA4+11D</CheckSum>
+  <Sig>jaZ+zAaddcXLf1z+Jt+k3w3q+PKO3q/2LYDi3Ram/K0pV9LVaSrT0Rs3eHjil6KU3qp+A8vP6NqeGIGVW0nOyHqvSmqmO8gv8dl5PWVP2ejVr3rIbqWol43V2vj/Dh/TohfS9GkgiSjpUyqUzBuas9NucqR7hW6wDGozP5/2JhuyqDJW0m7ARfE9EZDlsm27Z+mruXk8rdozSdP8QA3/34q5AgSbuxe44/e3Let29FZKourEigavE9YRSYg1lUZWUZnKTdRgyt0Er3k4G93/MoCMO+zlnBVDPe7NL3sbFASde1yTck1I+F7zaFO2vPgRdHFby5JfG+saRsHRaqclg7gwElmV/RNBPlVLT09JGaKx2iNtMbr4B9o33iIqQF3EYKsKR1QfEupgzVJJq/IFTpJHWYQaft8w8Y1MhTL9VrL56r4F0Wppfjzpt9VDlBevnTN5EFvlVDExQnCM+oQQQLZ/jUnupuA9VwhQsz/biQedQNbuIDG3VbxjQUlz788r</Sig>
+</Signature>

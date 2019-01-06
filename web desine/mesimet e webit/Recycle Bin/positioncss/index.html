@@ -1,0 +1,48 @@
+﻿<html>
+<head>
+<title>Position css</title>
+
+<style type="text/css">
+body{margin:0 auto}
+#container{width:900px;height:1000px;background-color:#ababab;position:relative;margin:0 auto;
+}
+#header{width:900px;height:150px;background-color:yellow;position:absolute;top:0px;left:0px;}
+
+#menubar{width:500px;height:50px;background-color:red;position:absolute;top:150px;left:200px;}
+
+#navleft{width:200px;height:700px;background-color:blue;position:absolute;top:150px;left:0px;text-align:center}
+#navright{width:200px;height:700px;background-color:blue;position:absolute;top:150px;left:700px;text-align:center}
+#content{width:500px;height:650px;background-color:white;position:absolute;top:200px;left:200px;}
+
+#footer{width:900px;height:150px;background-color:black; color:white;position:fixed;left:50%;margin-left:-450px;bottom:0px;}
+.menu{font-family:impact;font-size:20px;text-align:center;line-height:50px}
+
+#home{position:absolute;top:0px;left:0px;width:100px;height:50px;background-color:cyan}
+#about{position:absolute;top:0px;left:100px;width:100px;height:50px;background-color:cyan}
+#gallery{position:absolute;top:0px;left:200px;width:100px;height:50px;background-color:cyan}
+#links{position:absolute;top:0px;left:300px;width:100px;height:50px;background-color:cyan}
+#contact{position:absolute;top:0px;left:400px;width:100px;height:50px;background-color:cyan}
+</style>
+</head>
+
+<body>
+
+<div id="container">
+<div id="header">Ky eshte kreu.</div>
+
+<div id="navleft">SIDEBAR-LEFT</div>
+<div id="navright">SIDEBAR-RIGHT</div>
+
+<div id="menubar">
+<div id="home" class="menu">HOME</div>
+<div id="about" class="menu">ABOUT</div>
+<div id="gallery" class="menu">GALLERY</div>
+<div id="links" class="menu">LINKS</div>
+<div id="contact" class="menu">CONTACT</div>
+</div>
+
+<div id="content">Kjo eshte permbajtja.</div>
+
+<div id="footer">Ky eshte fundi.</div>
+</div>
+</body></html>

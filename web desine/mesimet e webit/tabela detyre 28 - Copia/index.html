@@ -1,0 +1,214 @@
+﻿
+<html>
+<head>
+<title> css pratike </title>
+<style type="text/css">
+
+#container{
+position:relative;}
+#header{
+width:900px;
+height:100px;
+background:#990099;
+top:100px;
+left:250px;
+position:relative;
+}
+#leftnav{
+width:200px;
+height:800px;
+background: #990066;
+position: absolute;
+top:100px;
+left:0px;
+
+
+}
+#rightnav{
+width:200px;
+height:800px;
+position: absolute;
+background: #990066;
+top:100px;
+left:700px;
+}
+#content{
+width:500px;
+height:800px;
+position: absolute;
+background:#CC99CC;
+top:100px;
+left:200px;
+}
+#footer{
+width:900px;
+height:100px;
+background:#9999CC;
+position: absolute;
+top:800px;
+left:0px;
+}
+.nav{}
+
+
+#menu {
+position:absolute;
+top:0px;
+left:0px;
+}
+
+#menu ul {
+list-style:none;
+ margin:0;
+ padding:0;}
+
+#menu li {
+float:bottom;
+ width:200px;
+ height:40px;
+border-bottom:1px solid #fff;
+background-color: #CC00CC;
+text-align:left;
+padding-left:10px; 
+line-height:40px; 
+font-family:Verdana;}
+
+#menu a{ text-decoration:none; color:#fff;}
+
+#menu li:hover { background:#330099;}
+
+
+.menuheader {
+position:absolute;
+top:70px;
+left:250px;
+}
+
+.menuheader ul {
+list-style:none;
+margin:0;
+padding:0;
+z-index:1010;}
+
+.menuheader li{
+font-family:verdana;
+float:left;
+width:100px;
+height:30px;
+border-right:1px solid #fff;
+background: #990099;
+text-align:center;
+line-height:30px;
+position:relative;
+}
+
+.menuheader li ul li {
+float:none;
+width:100px;
+border-top:1px solid #fff;
+}
+
+.menuheader a{text-decoration::none; color: #999933;}
+.menuheader a:hover {color:#0033FF;}
+
+.menuheader li ul{ position:absolute; top:30px; left:0px; visibility:hidden;}
+
+.menuheader li:hover{background:#CC3366;}
+.menuheader li:hover ul{visibility:visible;}
+</style>
+
+</head>
+
+<body background="image/012.jpg">
+<div id="container">
+<div id="header">kreu
+<div class="menuheader">
+
+<li><a href="#">Menu 1</a>
+<ul>
+<li><a href="#">Link 1</a></li>
+
+<li><a href="#">Link 2</a></li>
+
+<li><a href="#">Link 3</a></li>
+
+<li><a href="#">Link 4</a></li>
+</ul>
+</li>
+
+<li><a href="#">MENU 2</a>
+
+<ul>
+
+<li><a href="#">Link 1</a></li>
+
+<li><a href="#">Link 2</a></li>
+
+<li><a href="#">Link 3</a></li>
+
+<li><a href="#">Link 4</a></li>
+
+</ul></li>
+
+<li><a href="#">MENU 3</a>
+
+<ul>
+
+<li><a href="#">Link 1</a></li>
+
+<li><a href="#">Link 2</a></li>
+
+<li><a href="#">Link 3</a></li>
+
+<li><a href="#">Link 4</a></li>
+
+</ul></li>
+
+<li><a href="#">MENU 4</a>
+
+<ul>
+
+<li><a href="#">Link 1</a></li>
+
+<li><a href="#">Link 2</a></li>
+
+<li><a href="#">Link 3</a></li>
+
+<li><a href="#">Link 4</a></li>
+
+</ul></li>
+
+
+
+</div>
+<div id="leftnav" class="nav">
+
+<div id="menu">
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">Home</a></li>
+
+</ul><!--closing ul-->
+
+</div> <!--end of menu div-->
+
+
+
+
+</div>
+<div id="rightnav" class="nav">nav djathtas</div>
+<div id="content">center</div>
+
+
+<div id="footer">ky esht fundi</div>
+</div>
+
+</body>
+
+</html>

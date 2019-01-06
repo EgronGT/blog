@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CSUManifest.xsd" CSUVersion="1.0">
+	<UpdateID>13.0.1.3</UpdateID>
+	<OwningChannel>AdobePhotoshopCS6GermanLanguagePack-13.0</OwningChannel>
+	<TargetBuildType>0</TargetBuildType>
+	<TargetLicensingType>2</TargetLicensingType>
+	<DisplayName default="en_US">
+		<en_US>Adobe Photoshop 13.0.1.3</en_US>	
+		<cs_CZ>Adobe Photoshop 13.0.1.3</cs_CZ>
+		<da_DK>Adobe Photoshop 13.0.1.3</da_DK>
+		<de_DE>Adobe Photoshop 13.0.1.3</de_DE>
+		<es_ES>Adobe Photoshop 13.0.1.3</es_ES>
+		<fi_FI>Adobe Photoshop 13.0.1.3</fi_FI>
+		<fr_FR>Adobe Photoshop 13.0.1.3</fr_FR>
+		<hu_HU>Adobe Photoshop 13.0.1.3</hu_HU>
+		<it_IT>Adobe Photoshop 13.0.1.3</it_IT>
+		<ja_JP>Adobe Photoshop 13.0.1.3</ja_JP>
+		<ko_KR>Adobe Photoshop 13.0.1.3</ko_KR>
+		<nb_NO>Adobe Photoshop 13.0.1.3</nb_NO>
+		<nl_NL>Adobe Photoshop 13.0.1.3</nl_NL>
+		<pl_PL>Adobe Photoshop 13.0.1.3</pl_PL>
+		<pt_BR>Adobe Photoshop 13.0.1.3</pt_BR>
+		<ru_RU>Adobe Photoshop 13.0.1.3</ru_RU>
+		<sv_SE>Adobe Photoshop 13.0.1.3</sv_SE>
+		<tr_TR>Adobe Photoshop 13.0.1.3</tr_TR>
+		<uk_UA>Adobe Photoshop 13.0.1.3</uk_UA>
+		<zh_CN>Adobe Photoshop 13.0.1.3</zh_CN>
+		<zh_TW>Adobe Photoshop 13.0.1.3</zh_TW>
+	</DisplayName>
+	<Description default="en_US">
+		<en_US>The Adobe(R) Photoshop(R) CS6 13.0.1.3 update addresses a number of issues discovered after Adobe Photoshop CS6 (13.0) software was released. For details, please see: http://www.adobe.com/go/photoshop_cs6_update_info</en_US>
+		<cs_CZ>Aktualizace softwaru Adobe(R) Photoshop(R) CS6 13.0.1.3 řeší řadu potíží zjištěných po vydání verze Adobe Photoshop CS6 (13.0). Další informace najdete na webu http://www.adobe.com/go/photoshop_cs6_update_info</cs_CZ>
+		<da_DK>Opdateringen til Adopbe(R) Photoshop(R) CS6 13.0.1.3 løser en række problemer, der blev registreret, efter at Adobe Photoshop CS6 (13.0)-softwaren blev udgivet. Du kan finde flere oplysninger her: http://www.adobe.com/go/photoshop_cs6_update_info</da_DK>
+		<de_DE>Mit der Adobe(R) Photoshop(R) CS6 13.0.1.3-Aktualisierung werden mehrere Probleme behoben, die nach der Veröffentlichung von Adobe Photoshop CS6 (13.0) aufgetreten sind. Weitere Hinweise finden Sie unter http://www.adobe.com/go/photoshop_cs6_update_info.</de_DE>
+		<es_ES>La actualización Adobe(R) Photoshop(R) CS6 13.0.1.3 soluciona diversos problemas observados tras la publicación del software Adobe Photoshop CS6 (13.0). Para conocer más detalles, visite: http://www.adobe.com/go/photoshop_cs6_update_info</es_ES>
+		<fi_FI>Adobe(R) Photoshop(R) CS6 13.0.1.3 -päivitys korjaa useita Adobe Photoshop CS6 (13.0) -ohjelmistosta löytyneitä ongelmia. Saat lisätietoja osoitteesta http://www.adobe.com/go/photoshop_cs6_update_info.</fi_FI>
+		<fr_FR>La mise à jour Adobe(R) Photoshop(R) CS6 13.0.1.3 corrige un certain nombre de problèmes détectés dans Adobe Photoshop CS6 (13.0) après sa sortie. Pour en savoir plus, reportez-vous à la page : http://www.adobe.com/go/photoshop_cs6_update_info</fr_FR>
+		<hu_HU>Az Adobe(R) Photoshop(R) CS6 13.0.1.3 frissítés az Adobe Photoshop CS6 (13.0) szoftver számos, a kibocsátást követően felfedezett hibáját javítja. További részletek: http://www.adobe.com/go/photoshop_cs6_update_info</hu_HU>
+		<it_IT>L’aggiornamento di Adobe(R) Photoshop(R) CS6 13.0.1.3 fa’ riferimento a un numero di problemi rilevati dopo il rilascio del software Adobe Photoshop CS6 (13.0). Per ulteriori dettagli, visitare: http://www.adobe.com/go/photoshop_cs6_update_info</it_IT>
+		<ja_JP>Adobe(R) Photoshop(R) CS6 13.0.1.3 のアップデートは Adobe Photoshop CS6 (13.0) ソフトウェアのリリース以降発見されたさまざまな問題を解決します。詳細についてはこちらをご覧ください: http://www.adobe.com/go/photoshop_cs6_update_info</ja_JP>
+		<ko_KR>Adobe(R) Photoshop(R) CS6 13.0.1.3 업데이트는 Adobe Photoshop CS6 (13.0) 소프트웨어가 릴리즈된 후 발견된 여러 문제들을 다루었습니다. 자세한 내용을 원하시면 다음 웹페이지를 참조해 주십시오: http://www.adobe.com/go/photoshop_cs6_update_info</ko_KR>
+		<nb_NO>Adobe(R) Photoshop(R) CS6 13.0.1.3-oppdateringen løser flere problemer som ble oppdaget etter at Adobe Photoshop CS6 (13.0) ble utgitt. For mer informasjon gå til: http://www.adobe.com/go/photoshop_cs6_update_info</nb_NO>
+		<nl_NL>In de Adobe(R) Photoshop(R) CS6 13.0.1.3-update wordt een aantal problemen opgelost die zijn ontdekt na de release van Adobe Photoshop CS6 (13.0)-software. Raadpleeg voor meer informatie: http://www.adobe.com/go/photoshop_cs6_update_info</nl_NL>
+		<pl_PL>Aktualizacja programu Adobe(R) Photoshop(R) CS6 13.0.1.3 usuwa szereg problemów wykrytych po wprowadzeniu programu Adobe Photoshop CS6 w wersji 13.0. Szczegółowe informacje na ten temat są dostępne pod adresem: http://www.adobe.com/go/photoshop_cs6_update_info</pl_PL>
+		<pt_BR>A atualização do Adobe(R) Photoshop(R) CS6 13.0.1.3 soluciona vários problemas observados após a publicação do Adobe Photoshop CS6 (13.0).  Para maiores detalhes, visite: http://www.adobe.com/go/photoshop_cs6_update_info</pt_BR>
+		<ru_RU>В обновлении Adobe(R) Photoshop(R) CS6 13.0.1.3 исправлен ряд проблем, обнаруженных после выпуска Adobe Photoshop CS6 (13.0). Дополнительные сведения см. на странице http://www.adobe.com/go/photoshop_cs6_update_info</ru_RU>
+		<sv_SE>Uppdateringen Adobe(R) Photoshop(R) CS6 13.0.1.3 åtgärdar en rad problem som upptäcktes efter att Adobe Photoshop CS6 (13.0) hade lanserats. Mer information finns på sidan: http://www.adobe.com/go/photoshop_cs6_update_info</sv_SE>
+		<tr_TR>Adobe(R) Photoshop(R) CS6 13.0.1.3 güncellemesinde, Adobe Photoshop CS6 (13.0) yazılımı kullanıma sunulduktan sonra bulunan çeşitli sorunlar ele alınır. Ayrıntılar için bkz. http://www.adobe.com/go/photoshop_cs6_update_info</tr_TR>
+		<uk_UA>Оновлення Adobe(R) Photoshop(R) CS6 13.0.1.3 усуває декілька проблем, які були виявлені після виходу графічного редактора Adobe Photoshop CS6 (13.0). Докладніші відомості містяться на сторінці http://www.adobe.com/go/photoshop_cs6_update_info</uk_UA>
+		<zh_CN>Adobe(R) Photoshop(R) CS6 13.0.1.3 更新版解决了 Adobe Photoshop CS6 (13.0) 软件发布后发现的诸多问题。有关详细信息，请参见：http://www.adobe.com/go/photoshop_cs6_update_info</zh_CN>
+		<zh_TW>Adobe(R) Photoshop(R) CS6 13.0.1.3 更新解決了自 Adobe Photoshop CS6 (13.0) 軟體發佈以來發現的各種問題。有關詳細資料，請造訪：http://www.adobe.com/go/photoshop_cs6_update_info</zh_TW>
+	</Description>
+	<AffectedChannels>
+		<ChannelID>AdobePhotoshopCS6Support-13.0</ChannelID>
+		<ChannelID>AdobePhotoshopCS6-13.0</ChannelID>
+		<ChannelID>AdobePhotoshopCS664Bit-13.0</ChannelID>
+	</AffectedChannels>	
+	<InstallFiles>
+    <File RIBSBased="1">
+      <Name>
+        
+      </Name>
+      <Type>
+        
+      </Type>
+      <ExecutableName>
+        
+      </ExecutableName>
+      <Size>
+        
+      </Size>
+      
+      <CompareType name="OSLanguageLookup">
+        <TargetValue>
+          
+        </TargetValue>
+        <Operator>
+          
+        </Operator>
+      </CompareType>
+      <CompareType name="OSPlatformLookup">
+        <TargetValue>
+          
+        </TargetValue>
+        <Operator>
+          
+        </Operator>
+      </CompareType>
+    </File>
+  </InstallFiles>
+	
+	<NeedsReboot>false</NeedsReboot>
+
+  
+  
+  
+  
+  
+  
+  <UpdatePayloadID>{30F1554D-F881-46FF-93EB-E961DF254488}</UpdatePayloadID>
+  <OwningPayloadID>{17910DE9-5F89-4F98-B19F-AC2C43D86A1D}</OwningPayloadID>
+  <ConflictingProcesses/>
+</Manifest>
